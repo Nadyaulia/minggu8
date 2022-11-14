@@ -1,0 +1,23 @@
+h1{ 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    line-height: 50%; 
+    font-size:large;
+} 
+ 
+i { 
+    font-family: 'Times New Roman', Times, serif; 
+    color: rgb(174, 127, 255); 
+} 
+.pink { 
+    color: rgb(147, 19, 19); 
+    background: pink; 
+    padding: 5px; 
+  }
+ 
+h2 { 
+    font-family: sans; 
+    color:greenyellow;
+    text-align: center;
+    font-size: 30px;
+    background-color: black;
+}
